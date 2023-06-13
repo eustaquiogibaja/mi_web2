@@ -1,0 +1,6 @@
+<script_reporte_1>
+   Obtener datos de origen : BD / EXCEL / TXT.
+   Realizar limpieza de datos
+   Agregar filtro: compras de mujeres en el mes pasado
+<script_reporte_1>
+
